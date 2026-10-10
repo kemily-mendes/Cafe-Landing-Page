@@ -1,4 +1,4 @@
-<h1>Brewing Moments - Coffee Shop</h1>
+<h1>Landing Page - Coffee Shop</h1>
 
 <h2>Introduction</h2>
 <p>This is a modern and responsive landing page for a coffee shop created using React, TypeScript, and Tailwind CSS. It features a clean, attractive UI with custom entry animations that bring the page to life. The project was developed to practice building React functional components, utilizing Tailwind CSS for rapid styling, and implementing custom CSS animations for an engaging user experience.</p>
@@ -13,5 +13,5 @@
 
 <h2>Screenshots</h2>
 <p align="center">
-  <img src="assets/preview.gif" alt="Brewing Moments Project">
+  <img src="gif/landing_page.gif" alt="Brewing Moments Project">
 </p>
